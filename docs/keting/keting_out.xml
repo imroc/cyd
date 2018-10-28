@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="到卧室" target="" pan="67.6083" skinid="ws-kt" url="{node2}" id="dwsw" tilt="-11.702"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="1" pansize="10" mode="3" loop="0" field="90" pan="28.9938" tiltsize="10" id="_element_0" level="1" tilt="2.49704">
+        <source url="动漫唯美风 - 耳朵怀孕单曲循环系列，人世间有百媚千红，唯独你是我情之所钟 (节目).mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/keting_o_0.jpg" prev5url="images/keting_o_preview_5.jpg" prev4url="images/keting_o_preview_4.jpg" prev3url="images/keting_o_preview_3.jpg" prev2url="images/keting_o_preview_2.jpg" prev1url="images/keting_o_preview_1.jpg" prev0url="images/keting_o_preview_0.jpg" tile5url="images/keting_o_5.jpg" tilesize="500" tile4url="images/keting_o_4.jpg" tile3url="images/keting_o_3.jpg" tilescale="1.02" tile2url="images/keting_o_2.jpg" tile1url="images/keting_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/keting_o_800_0.jpg" screensize="1000" tile5url="images/keting_o_800_5.jpg" tilesize="800" tile4url="images/keting_o_800_4.jpg" tile3url="images/keting_o_800_3.jpg" tilescale="1.02" tile2url="images/keting_o_800_2.jpg" tile1url="images/keting_o_800_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="到客厅" target="" pan="-155.56" skinid="ws-ke" url="{node1}" id="dkt" tilt="-6.33738"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="1" pansize="10" mode="3" loop="0" field="90" pan="-7.82197" tiltsize="10" id="_element_0" level="1" tilt="-18.9608">
+        <source url="动漫唯美风 - 耳朵怀孕单曲循环系列，人世间有百媚千红，唯独你是我情之所钟 (节目).mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/woshi_o_0.jpg" prev5url="images/woshi_o_preview_5.jpg" prev4url="images/woshi_o_preview_4.jpg" prev3url="images/woshi_o_preview_3.jpg" prev2url="images/woshi_o_preview_2.jpg" prev1url="images/woshi_o_preview_1.jpg" prev0url="images/woshi_o_preview_0.jpg" tile5url="images/woshi_o_5.jpg" tilesize="500" tile4url="images/woshi_o_4.jpg" tile3url="images/woshi_o_3.jpg" tilescale="1.02" tile2url="images/woshi_o_2.jpg" tile1url="images/woshi_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/woshi_o_800_0.jpg" screensize="1000" tile5url="images/woshi_o_800_5.jpg" tilesize="800" tile4url="images/woshi_o_800_4.jpg" tile3url="images/woshi_o_800_3.jpg" tilescale="1.02" tile2url="images/woshi_o_800_2.jpg" tile1url="images/woshi_o_800_1.jpg"/>
+    <autorotate speed="0.400" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
